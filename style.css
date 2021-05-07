@@ -1,0 +1,38 @@
+.head {
+    max-width: 700px;
+    margin: auto;
+    font-family: Courier New, monospace;
+    text-align: left;
+  }
+  
+  .main-header {
+  text-align: center;
+  
+  }
+  
+  .left {
+      font-family: Courier New, monospace;
+  
+  }
+  
+  .description {
+    display: inline-block;
+    margin-top: 6px;
+    margin-left: 55px;
+    width: 75%;
+    height: 1000px;
+    width: 100%;
+    margin-left: 10px;
+  }
+  
+  .head {
+    font-size: 20px;
+    font-family: Lucida Console, monospace;
+    text-align: left;
+  }
+  
+  #name {
+    font-family: Courier New, monospace;
+    margin-top: 10px;
+    margin-right: 4%;
+  }
