@@ -26,7 +26,11 @@
     width: 950px;
  
   }
-
+  .button {
+    margin-left: 360px;
+    margin-top: -30px;
+    margin-bottom: 20px;
+  }
 
 }
 
