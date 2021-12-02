@@ -1,10 +1,9 @@
 # mmarian0143.github.io
-Hi there, it's Madalina here. I am a full-time student seeking to become a software developer. Check out my resume! 
+Hi there, it's Madalina here! This resository is about a resume (my resume) I created using HTML/CSS and Boot strap. Take a look at it! :)
 
 
 
 
-![](Image/resumeshot2.png)
 
 # mmarian0143.github.io
 # mmarian0143.github.io
